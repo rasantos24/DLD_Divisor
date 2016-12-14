@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Rafael\PROYECTO_Divisor\FA_Divisor.ncd
+OUTFILE=C:\Users\Rafael\PROYECTO_Divisor\FA_Divisor.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5ft256
+WORKINGDIR=C:\Users\Rafael\PROYECTO_Divisor
+LICENSE=WebPack
+USER_INFO=__0_0_0

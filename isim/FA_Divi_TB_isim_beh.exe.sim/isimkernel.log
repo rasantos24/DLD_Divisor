@@ -1,0 +1,28 @@
+Command line:
+   FA_Divi_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  63076
+
+Tue Dec 13 23:32:06 2016
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 845.726 Meg
+
+ Total Signals          : 16
+ Total Nets             : 109
+ Total Signal Drivers   : 8
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 11
+ Total Traceable Variables  : 27
+ Total Scalar Nets and Variables : 478
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 845.726 Meg
+
+Tue Dec 13 23:32:21 2016
+
